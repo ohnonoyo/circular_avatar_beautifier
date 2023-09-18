@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Circular Avatar Beautifier</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Circular Avatar Beautifier</h1>
+    <input type="file" id="uploadInput">
+    <div id="imageContainer"></div>
+    <div id="controls">
+        <label for="ringWidth">Ring Width:</label>
+        <input type="range" id="ringWidth" min="1" max="50" value="5">
+        <label for="ringColor">Ring Color:</label>
+        <input type="color" id="ringColor" value="#000000">
+        <br>
+        <label for="uploadInput" class="uploadButton">Upload Avatar</label>
+        <button id="downloadButton">Download Avatar</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
