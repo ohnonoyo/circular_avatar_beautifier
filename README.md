@@ -1,13 +1,19 @@
 # Circular Avatar Beautifier
-Circular Avatar Beautifier is a simple web application for enhancing circular avatars. It allows users to upload their own avatar images, which are then cropped into a circular shape. Users can adjust the width and color of the surrounding ring. The beautified avatar can be downloaded.
 
-![example](common/example.png)
+Circular Avatar Beautifier is a straightforward web tool for enhancing circular avatars. Upload your avatar image, and it'll be cropped into a circle. You can adjust the ring's width and color for a customized look. Then, download your beautified avatar.
+
+![Example](common/example.png)
 
 ## How to Use
-***[Online demo available](https://ohnonoyo.github.io/circular_avatar_beautifier/)***
-- Clone or download this repository to your local machine.
-- Open the index.html file in a web browser.
-- Click the "Upload Avatar" button and select the avatar image file you want to upload.
-- Once the upload is complete, the avatar will be displayed on the page and automatically cropped into a circular shape.
-- Use the slider to adjust the width of the surrounding ring or choose a color to customize the ring's style.
-- Click the "Download Avatar" button to download the beautified avatar to your local machine.
+
+1. **Get Started:** Clone or download this repository.
+
+2. **Open the App:** Launch index.html in your web browser.
+
+3. **Upload Avatar:** Click "Upload Avatar" and choose your image.
+
+4. **Customize:** Adjust ring width or color.
+
+5. **Download:** Click "Download Avatar" to save your enhanced avatar.
+
+For the latest demo, check the "About" or "Deployments" section of this repository.
